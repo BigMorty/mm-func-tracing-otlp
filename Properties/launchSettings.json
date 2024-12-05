@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "mm_func_tracing_otlp": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7132",
+      "launchBrowser": false
+    }
+  }
+}
